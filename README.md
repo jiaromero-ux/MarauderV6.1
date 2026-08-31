@@ -71,4 +71,4 @@ Menú de configuración y estado del propio dispositivo, separado de las funcion
 
 ---
 
-📌 *Guía en construcción — se irá ampliando conforme pruebe más funciones del firmware.*
+📌 *Guía en construcción — se irá ampliando conforme haya más funciones del firmware.*
