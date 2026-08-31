@@ -24,7 +24,7 @@ Al empezar a trastear con el ESP32 Marauder V6.1 no encontré apenas ninguna gu�
     
 
 - **⚙️ Device**
-  - [Device](./device/device.md)
+  - [Device](./Device/Device.md)
 
 ---
 
