@@ -20,7 +20,7 @@ Al empezar a trastear con el ESP32 Marauder V6.1 no encontré apenas ninguna gu�
   - [Attacks](./bluetooth/attacks.md)
 
 - **🛰️ GPS**
-  - [GPS](./gps/gps/gps-options.md)
+  - [GPS](./gps/gps-options.md)
     
 
 - **⚙️ Device**
