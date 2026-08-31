@@ -45,47 +45,16 @@ Para realizar auditorías Bluetooth, el dispositivo posee un apartado 'Bluetooth
 - **Sniffers**: también conocidos como analizador de paquetes o monitor de red, son herramientas que nos permiten capturar y analizar tráfico Bluetooth.
 - **Attacks**: nos permitirá realizar diferentes ataques Bluetooth.
 
-### Bluetooth Analyzer
-
-Técnica que permite escanear, capturar y analizar el entorno de radiofrecuencia Bluetooth, así como realizar pruebas de seguridad sobre los dispositivos detectados.
-
-### Flock Sniff
-
-Función de escaneo inalámbrico utilizada para detectar cámaras de vigilancia de la marca Flock Safety.
-
-### Meta Detect
-
-Función que permite escanear y localizar dispositivos de la marca Meta (incluidos los que incorporan IA, como las gafas inteligentes).
-
-### Fox Hunt
-
-Función de localización por intensidad de señal (RSSI) que permite rastrear físicamente un dispositivo Bluetooth hasta encontrarlo, mostrando en tiempo real si te acercas o alejas según la potencia de la señal recibida.
-
-### FindMy Sound Attack
-
-Función que explota el protocolo Find My de Apple: el dispositivo emite anuncios BLE falsificados imitando un AirTag, lo que puede provocar que dispositivos Apple cercanos detecten un "accesorio desconocido" o que un accesorio real emita sonido de localización.
-
 ---
 
 ## 🛰️ GPS
 
 Para realizar auditorías GPS, el dispositivo posee un apartado 'GPS', el cual posee 4 opciones. Las opciones que podemos observar son:
 
-### GPS Data
-
-Función que integra un módulo GPS externo (vía UART) para añadir geolocalización a los escaneos y capturas realizados con Marauder.
-
-### NMEA Stream
-
-Muestra en tiempo real las tramas NMEA que envía el módulo GPS (latitud, longitud, altitud, hora UTC, satélites), sin procesarlas ni asociarlas a otros escaneos.
-
-### GPS Tracker
-
-Registra la posición actual de forma continua y la guarda en la SD, generando un histórico del recorrido físico realizado (track/ruta).
-
-### GPS POI
-
-Permite marcar y guardar puntos de interés (POI) concretos, asociando una ubicación a una etiqueta o nota (por ejemplo, dónde se detectó una red o dispositivo relevante).
+- **GPS Data**
+- **NMEA Stream**
+- **GPS Tracker**
+- **GPS POI**
 
 ---
 
@@ -93,12 +62,12 @@ Permite marcar y guardar puntos de interés (POI) concretos, asociando una ubica
 
 Menú de configuración y estado del propio dispositivo, separado de las funciones de escaneo/ataque. Normalmente incluye:
 
-- **Información del sistema**: versión de firmware, chip (ESP32/ESP32-S3), memoria libre, estado de la SD card.
-- **Configuración de pantalla**: brillo, orientación, tipo de display conectado.
-- **Configuración de red/AP**: nombre del punto de acceso de configuración, credenciales del WebUI.
-- **Gestión de batería**: nivel de carga, modo de ahorro de energía (si el hardware lo soporta).
-- **Actualización de firmware (OTA)**: flashear nueva versión sin necesidad de cable, si el firmware lo permite.
-- **Reset/Reboot**: reiniciar el dispositivo o restaurar configuración de fábrica.
+- **Información del sistema**
+- **Configuración de pantalla**
+- **Configuración de red/AP**
+- **Gestión de batería**
+- **Actualización de firmware (OTA)**
+- **Reset/Reboot**
 
 ---
 
