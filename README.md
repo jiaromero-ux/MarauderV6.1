@@ -11,9 +11,9 @@ Al empezar a trastear con el ESP32 Marauder V6.1 no encontré apenas ninguna gu�
 ## 📂 Contenido
 
 - **📶 WiFi**
-  - [Sniffers](./wifi/sniffers.md)
-  - [Scanners](./wifi/scanners.md)
-  - [Attacks](./wifi/attacks.md)
+  - [Sniffers](./Wi-Fi/Sniffers.md)
+  - [Scanners](./Wi-Fi/Scanners.md)
+  - [Attacks](./Wi-Fi/Attacks.md)
 
 - **📡 Bluetooth**
   - [Sniffers](./bluetooth/sniffers.md)
