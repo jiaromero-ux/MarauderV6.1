@@ -20,10 +20,8 @@ Al empezar a trastear con el ESP32 Marauder V6.1 no encontré apenas ninguna gu�
   - [Attacks](./bluetooth/attacks.md)
 
 - **🛰️ GPS**
-  - [GPS Data](./gps/gps-data.md)
-  - [NMEA Stream](./gps/nmea-stream.md)
-  - [GPS Tracker](./gps/gps-tracker.md)
-  - [GPS POI](./gps/gps-poi.md)
+  - [GPS](./gps/gps/gps-options.md)
+    
 
 - **⚙️ Device**
   - [Device](./device/device.md)
